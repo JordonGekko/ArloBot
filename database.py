@@ -1,6 +1,6 @@
 # Project: iEngage-Boss-Bot
 # File: database.py
-# Author: Joinemm
+# Author: JordonGekko
 # Date created: 12/02/19
 # Python Version: 3.6
 
